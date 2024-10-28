@@ -1,5 +1,5 @@
 {
-  "image": "archlinux/i3",
+  "image": "archlinux:latest",
   "features": {
   }
 }
